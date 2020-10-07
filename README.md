@@ -8,7 +8,7 @@
 2. قم بربط TextField 
 3. قم بربط الواجهات **ViewControllers** باستخدام **Segue**
 4. تاكد من وضع **identifier**  Segue
-5. عند الضغط على ال button قم بعمل **PerformSegue** للتنقل الي الواجه الثانيه (Second ViewController)
+5. عند الضغط على ال button قم بعمل **PerformSegue** للتنقل الى الواجه الثانيه (Second ViewController)
 
 <div dir="ltr">
 
