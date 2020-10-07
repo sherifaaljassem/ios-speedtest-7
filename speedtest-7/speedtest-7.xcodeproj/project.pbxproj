@@ -20,6 +20,7 @@
 		D2F9B9B3252D71ED0092DD87 /* Cairo-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D2F9B9AD252D71ED0092DD87 /* Cairo-Light.ttf */; };
 		D2F9B9B4252D71ED0092DD87 /* Cairo-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D2F9B9AE252D71ED0092DD87 /* Cairo-Black.ttf */; };
 		D2F9B9B5252D71ED0092DD87 /* Cairo-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D2F9B9AF252D71ED0092DD87 /* Cairo-ExtraLight.ttf */; };
+		E9F8E662252E164F0020B7CC /* detailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9F8E661252E164F0020B7CC /* detailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		D2F9B9AD252D71ED0092DD87 /* Cairo-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cairo-Light.ttf"; sourceTree = "<group>"; };
 		D2F9B9AE252D71ED0092DD87 /* Cairo-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cairo-Black.ttf"; sourceTree = "<group>"; };
 		D2F9B9AF252D71ED0092DD87 /* Cairo-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cairo-ExtraLight.ttf"; sourceTree = "<group>"; };
+		E9F8E661252E164F0020B7CC /* detailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = detailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		046D4D63249465AC00120869 = {
 			isa = PBXGroup;
 			children = (
+				E9F8E661252E164F0020B7CC /* detailsVC.swift */,
 				046D4D6E249465AC00120869 /* speedtest-7 */,
 				046D4D6D249465AC00120869 /* Products */,
 			);
@@ -175,6 +178,7 @@
 			files = (
 				046D4D74249465AC00120869 /* ViewController.swift in Sources */,
 				046D4D70249465AC00120869 /* AppDelegate.swift in Sources */,
+				E9F8E662252E164F0020B7CC /* detailsVC.swift in Sources */,
 				046D4D72249465AC00120869 /* SceneDelegate.swift in Sources */,
 				D2F9B9A6252D71570092DD87 /* IBElements.swift in Sources */,
 			);
