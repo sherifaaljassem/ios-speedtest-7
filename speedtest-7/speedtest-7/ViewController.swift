@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
     }
     
-     // Hint: `performSegue` is the way
+    // Hint: `performSegue` is the way
     
 
 }

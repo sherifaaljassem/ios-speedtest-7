@@ -55,7 +55,7 @@ import UIKit
         }
         set {
 
-            layer.shadowRadius = shadowRadius
+            layer.shadowRadius = newValue
         }
     }
     @IBInspectable
@@ -134,7 +134,7 @@ import UIKit
         }
         set {
 
-            layer.shadowRadius = shadowRadius
+            layer.shadowRadius = newValue
         }
     }
     @IBInspectable
@@ -216,7 +216,7 @@ import UIKit
         }
         set {
 
-            layer.shadowRadius = shadowRadius
+            layer.shadowRadius = newValue
         }
     }
     @IBInspectable
